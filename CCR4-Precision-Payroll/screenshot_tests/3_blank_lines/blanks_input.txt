@@ -1,0 +1,6 @@
+Alice,10
+
+Bob,20
+
+
+Carol,30
