@@ -11,5 +11,8 @@ Standalone weekly C programming assignments for COP 3515 (Advanced Programming, 
 | [CCR3](CCR3-Grand-Cinema) | Grand Cinema Theater | Conditional logic, categorization |
 | [CCR4](CCR4-Precision-Payroll) | Precision Payroll Services | File I/O, error handling |
 | [CCR5](CCR5-Downtown-Parking) | Downtown Parking Services | Loops, running totals, repeated input |
+| [CCR6](CCR6-Sweet-Delights-Bakery) | Sweet Delights Bakery | Independent self-contained calculations, receipt formatting |
+| [CCR7](CCR7-Green-Valley-Supply) | Green Valley Supply Company | Inventory update after a sale, transaction summary |
+| [CCR8](CCR8-Sunshine-Elementary) | Sunshine Elementary School | Updating a value in place, before/after reporting |
 
-Each folder contains the assignment's `.c` source and, where available, screenshot evidence proving the required test cases pass. All five compile clean with `gcc -Wall -Wextra -std=c11`.
+Each folder contains the assignment's `.c` source and, where available, screenshot evidence proving the required test cases pass. All eight compile clean with `gcc -Wall -Wextra -std=c11`.
